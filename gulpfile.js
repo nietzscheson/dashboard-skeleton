@@ -16,8 +16,8 @@
 
         browserSync.init({
             open: false,
-            host: 'artesanus.skeleton',
-            proxy: 'artesanus.skeleton',
+            host: 'dashboard.skeleton',
+            proxy: 'dashboard.skeleton',
             port: 4444
         });
 
